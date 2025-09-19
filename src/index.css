@@ -1,0 +1,16 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  padding: 20px;
+}
+
+.digit, .icon {
+  background: #222;
+  color: white;
+  font-size: 2rem;
+  margin: 5px;
+  padding: 20px;
+  border-radius: 8px;
+}
